@@ -1,3 +1,5 @@
 [
-  "metagenlab/zAMPExplorer"
+  "metagenlab/zAMPExplorer",
+  "davidholstberry/microViz",
+  "mccoy-lab/phyloseq.extended"
 ]
