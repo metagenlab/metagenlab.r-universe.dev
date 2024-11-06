@@ -8,7 +8,23 @@
         "url": "https://github.com/david-barnett/microViz/"
     },
     {
-        "package": "phyloseq-extended",
+        "package": "phyloseq.extended",
         "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+    },
+    {
+        "package": "MicEco",
+        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+    },
+    {
+        "package": "metagMisc",
+        "url": "https://github.com/david-barnett/microViz/"
+    },
+    {
+        "package": "microbiomeMarker",
+        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+    },
+    {
+        "package": "microbiomeutilities",
+        "url": "https://github.com/david-barnett/microViz/"
     }
 ]
