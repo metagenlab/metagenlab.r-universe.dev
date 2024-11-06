@@ -8,10 +8,6 @@
         "url": "https://github.com/david-barnett/microViz"
     },
     {
-        "package": "phyloseq.extended",
-        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
-    },
-    {
         "package": "MicEco",
         "url": "https://github.com/Russel88/MicEco"
     },
