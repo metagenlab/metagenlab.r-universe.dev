@@ -13,18 +13,18 @@
     },
     {
         "package": "MicEco",
-        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+        "url": "https://github.com/Russel88/MicEco"
     },
     {
         "package": "metagMisc",
-        "url": "https://github.com/david-barnett/microViz/"
+        "url": "https://github.com/vmikk/metagMisc"
     },
     {
         "package": "microbiomeMarker",
-        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+        "url": "https://github.com/yiluheihei/microbiomeMarker"
     },
     {
         "package": "microbiomeutilities",
-        "url": "https://github.com/david-barnett/microViz/"
+        "url": "https://github.com/microsud/microbiomeutilities/tree/master"
     }
 ]
