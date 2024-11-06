@@ -1,5 +1,14 @@
 [
-  "metagenlab/zAMPExplorer",
-  "davidholstberry/microViz",
-  "mccoy-lab/phyloseq.extended"
+    {
+        "package": "zAMPExplorer",
+        "url": "https://github.com/metagenlab/zAMPExplorer"
+    },
+    {
+        "package": "microViz",
+        "url": "https://github.com/david-barnett/microViz/"
+    },
+    {
+        "package": "roblog",
+        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
+    }
 ]
