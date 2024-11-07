@@ -12,10 +12,6 @@
         "url": "https://github.com/Russel88/MicEco"
     },
     {
-        "package": "phyloseq-extended",
-        "url": "https://github.com/mahendra-mariadassou/phyloseq-extended"
-    },
-    {
         "package": "metagMisc",
         "url": "https://github.com/vmikk/metagMisc"
     },
