@@ -18,5 +18,25 @@
     {
         "package": "microbiomeutilities",
         "url": "https://github.com/microsud/microbiomeutilities"
+    },
+    {
+        "package": "mia",
+        "url": "https://github.com/microbiome/mia"
+    },
+    {
+        "package": "miaViz",
+        "url": "https://github.com/microbiome/miaViz"
+    },
+    {
+        "package": "MicrobiotaProcess",
+        "url": "https://github.com/YuLab-SMU/MicrobiotaProcess"
+    },
+    {
+        "package": "DirichletMultinomial",
+        "url": "https://github.com/mtmorgan/DirichletMultinomial"
+    },
+    {
+        "package": "InteractiveComplexHeatmap",
+        "url": "https://github.com/jokergoo/InteractiveComplexHeatmap"
     }
 ]
