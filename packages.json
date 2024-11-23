@@ -9,10 +9,6 @@
         "branch" : "main"
     },
     {
-        "package": "DirichletMultinomial",
-        "url": "https://github.com/mtmorgan/DirichletMultinomial"
-    },
-    {
         "package": "MicEco",
         "url": "https://github.com/Russel88/MicEco",
         "branch" : "master"
