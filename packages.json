@@ -10,8 +10,7 @@
     },
     {
         "package": "DirichletMultinomial",
-        "url": "https://github.com/mtmorgan/DirichletMultinomial",
-        "branch" : "devel"
+        "url": "https://github.com/mtmorgan/DirichletMultinomial"
     },
     {
         "package": "Maaslin2",
