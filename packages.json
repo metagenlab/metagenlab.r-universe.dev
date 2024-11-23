@@ -5,35 +5,32 @@
     },
     {
         "package": "microViz",
-        "url": "https://github.com/david-barnett/microViz"
+        "url": "https://github.com/david-barnett/microViz",
+        "branch" : "main"
     },
     {
         "package": "Maaslin2",
-        "url": "https://github.com/biobakery/Maaslin2"
+        "url": "https://github.com/biobakery/Maaslin2",
+        "branch" : "master"
     },
     {
         "package": "MicEco",
-        "url": "https://github.com/Russel88/MicEco"
+        "url": "https://github.com/Russel88/MicEco",
+        "branch" : "master"
     },
     {
         "package": "microbiomeMarker",
-        "url": "https://github.com/yiluheihei/microbiomeMarker"
+        "url": "https://github.com/yiluheihei/microbiomeMarker",
+        "branch" : "devel"
     },
     {
         "package": "microbiomeutilities",
         "url": "https://github.com/microsud/microbiomeutilities"
     },
     {
-        "package": "mia",
-        "url": "https://github.com/microbiome/mia"
-    },
-    {
-        "package": "miaViz",
-        "url": "https://github.com/microbiome/miaViz"
-    },
-    {
         "package": "MicrobiotaProcess",
-        "url": "https://github.com/YuLab-SMU/MicrobiotaProcess"
+        "url": "https://github.com/YuLab-SMU/MicrobiotaProcess",
+        "branch" : "master"
     },
     {
         "package": "DirichletMultinomial",
