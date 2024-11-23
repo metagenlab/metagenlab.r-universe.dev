@@ -8,6 +8,10 @@
         "url": "https://github.com/david-barnett/microViz"
     },
     {
+        "package": "Maaslin2",
+        "url": "https://github.com/biobakery/Maaslin2"
+    },
+    {
         "package": "MicEco",
         "url": "https://github.com/Russel88/MicEco"
     },
