@@ -23,10 +23,6 @@
         "branch" : "master"
     },
     {
-        "package": "DirichletMultinomial",
-        "url": "https://github.com/mtmorgan/DirichletMultinomial"
-    },
-    {
         "package": "InteractiveComplexHeatmap",
         "url": "https://github.com/jokergoo/InteractiveComplexHeatmap"
     }
