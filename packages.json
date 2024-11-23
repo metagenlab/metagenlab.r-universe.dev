@@ -18,10 +18,6 @@
         "branch" : "master"
     },
     {
-        "package": "microbiomeutilities",
-        "url": "https://github.com/microsud/microbiomeutilities"
-    },
-    {
         "package": "MicrobiotaProcess",
         "url": "https://github.com/YuLab-SMU/MicrobiotaProcess",
         "branch" : "master"
