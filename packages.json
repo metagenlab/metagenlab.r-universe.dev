@@ -13,19 +13,9 @@
         "url": "https://github.com/mtmorgan/DirichletMultinomial"
     },
     {
-        "package": "Maaslin2",
-        "url": "https://github.com/biobakery/Maaslin2",
-        "branch" : "master"
-    },
-    {
         "package": "MicEco",
         "url": "https://github.com/Russel88/MicEco",
         "branch" : "master"
-    },
-    {
-        "package": "microbiomeMarker",
-        "url": "https://github.com/yiluheihei/microbiomeMarker",
-        "branch" : "devel"
     },
     {
         "package": "microbiomeutilities",
