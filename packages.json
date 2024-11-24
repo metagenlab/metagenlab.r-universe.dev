@@ -4,9 +4,19 @@
         "url": "https://github.com/metagenlab/zAMPExplorer"
     },
     {
+        "package": "microbiome",
+        "url": "https://github.com/microbiome/microbiome",
+        "branch" : "master"
+    },
+    {
         "package": "microViz",
         "url": "https://github.com/david-barnett/microViz",
         "branch" : "main"
+    },
+    {
+        "package": "ggvenn",
+        "url": "https://github.com/yanlinlin82/ggvenn",
+        "branch" : "master"
     },
     {
         "package": "MicEco",
