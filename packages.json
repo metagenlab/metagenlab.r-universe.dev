@@ -1,9 +1,5 @@
 [
     {
-        "package": "zAMPExplorer",
-        "url": "https://github.com/metagenlab/zAMPExplorer"
-    },
-    {
         "package": "microbiome",
         "url": "https://github.com/microbiome/microbiome",
         "branch" : "master"
