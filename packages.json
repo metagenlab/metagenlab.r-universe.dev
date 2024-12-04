@@ -7,10 +7,5 @@
         "package": "microViz",
         "url": "https://github.com/david-barnett/microViz",
         "branch" : "main"
-    },
-    {
-        "package": "DirichletMultinomial",
-        "url": "https://github.com/mtmorgan/DirichletMultinomial",
-        "branch" : "devel"
     }
 ]
