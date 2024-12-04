@@ -7,10 +7,5 @@
         "package": "microViz",
         "url": "https://github.com/david-barnett/microViz",
         "branch" : "main"
-    },
-    {
-        "package": "Maaslin2",
-        "url": "https://github.com/biobakery/Maaslin2",
-        "branch" : "master"
     }
 ]
