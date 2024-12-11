@@ -1,6 +1,7 @@
 [
     {
         "package": "zAMPExplorer",
-        "url": "https://github.com/metagenlab/zAMPExplorer"
+        "url": "https://github.com/metagenlab/zAMPExplorer",
+        "branch" : "Devel"
     }
 ]
