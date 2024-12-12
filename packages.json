@@ -3,5 +3,10 @@
         "package": "zAMPExplorer",
         "url": "https://github.com/metagenlab/zAMPExplorer",
         "branch" : "Devel"
+    },
+    {
+        "package": "Maaslin2",
+        "url": "https://github.com/biobakery/Maaslin2",
+        "branch" : "master"
     }
 ]
