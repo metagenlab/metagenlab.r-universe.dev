@@ -8,5 +8,20 @@
         "package": "microViz",
         "url": "https://github.com/david-barnett/microviz/",
         "branch" : "main"
+    },
+    {
+        "package": "microbiome",
+        "url": "https://github.com/microbiome/microbiome",
+        "branch" : "master"
+    },
+    {
+        "package": "ComplexHeatmap",
+        "url": "https://github.com/jokergoo/ComplexHeatmap",
+        "branch" : "master"
+    },
+    {
+        "package": "phyloseq",
+        "url": "https://github.com/joey711/phyloseq",
+        "branch" : "master"
     }
 ]
